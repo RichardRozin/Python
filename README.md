@@ -1,2 +1,2 @@
-# Python
+# PYTHON
  Arquivos e exercicios na linguagem Python.
