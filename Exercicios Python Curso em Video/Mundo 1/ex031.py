@@ -8,4 +8,4 @@ if d <= 200:
 else:
     valor = d * 0.45
 print(f'E o preco da sua passagem sera de R${valor:.2f}.')
-print(f'Tenha uma otima viagem!!!')
+print(f'Tenha uma otima viagem!')
